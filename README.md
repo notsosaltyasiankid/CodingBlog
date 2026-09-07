@@ -1,3 +1,12 @@
+# De Blog Idee
+
+Het idee begon met om mijn kennis te delen over wat ik tot nu toe weet van mijn code skills als een student die nog niet zo veel ervaring heeft met codeur. Tot nu toe ik heb ik wel hier en daar bij een paar bedrijven stage gelopen waarbij ik allemaal verschillende leuke projecten hebt zitten werken maar misschien kan ik in de toekomst dus mijn ervaring zo laten zien met deze blog aan allemaal recruiters. Persoonlijk heb ik eigenlijk een portfolio website maar dit als extra zou wel echt een extra icing op de cake zijn om ook te laten zien dat ik een professional codeur ben! Ik zou graag zo veel mogelijk nieuwe projecten willen starten en zo vervolgens gaan delen met de wereld en wanneer de projecten dus een succes zijn gaan ze vervolgens dan detailed op mijn website staan waar al mijn andere projecten zitten.
+
+# De design
+Qua design kan ik zeggen dat ik wel ongeveer dezelfde kleur pallet wil gaan nemen als wat ik op mijn eigen website heb of een klein beetje wat erop gaat lijken. 
+
+https://benjineer.vercel.app/blogs/intellichat
+
 # Astro Starter Kit: Basics
 
 ```sh
