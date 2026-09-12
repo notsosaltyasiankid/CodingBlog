@@ -6,6 +6,8 @@ Het idee begon met om mijn kennis te delen over wat ik tot nu toe weet van mijn 
 Qua design kan ik zeggen dat ik wel ongeveer dezelfde kleur pallet wil gaan nemen als wat ik op mijn eigen website heb of een klein beetje wat erop gaat lijken. Ter inspiratie heb ik een paar blogs hieronder linken om te laten zien wat ik ongeveer wel wat voor design ik graag wil gaan nemen.
 
 https://benjineer.vercel.app/blogs/intellichat
+https://rogierderuijter.com/#/blog
+
 
 # Astro Starter Kit: Basics
 
