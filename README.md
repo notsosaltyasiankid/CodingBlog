@@ -1,13 +1,19 @@
 # De Blog Idee
 
-Het idee begon met om mijn kennis te delen over wat ik tot nu toe weet van mijn code skills als een student die nog niet zo veel ervaring heeft met codeur. Tot nu toe ik heb ik wel hier en daar bij een paar bedrijven stage gelopen waarbij ik allemaal verschillende leuke projecten hebt zitten werken maar misschien kan ik in de toekomst dus mijn ervaring zo laten zien met deze blog aan allemaal recruiters. Persoonlijk heb ik eigenlijk een portfolio website maar dit als extra zou wel echt een extra icing op de cake zijn om ook te laten zien dat ik een professional codeur ben! Ik zou graag zo veel mogelijk nieuwe projecten willen starten en zo vervolgens gaan delen met de wereld en wanneer de projecten dus een succes zijn gaan ze vervolgens dan detailed op mijn website staan waar al mijn andere projecten zitten.
+Het idee begon eigenlijk met het idee om mijn kennis te delen over wat ik tot nu toe weet van coderen. Ik ben zelf nog een student en heb nog niet superveel ervaring met programmeren, maar ik heb ondertussen wel al bij een paar verschillende bedrijven stage gelopen. Daar heb ik aan verschillende leuke projecten gewerkt en steeds weer nieuwe dingen geleerd.
+
+Ik dacht daarom: waarom zou ik dit allemaal niet gewoon bijhouden in een blog? Zo kan ik een beetje meer achter de schermen context geven en hoe ik mezelf steeds verder ontwikkel. Misschien is het in de toekomst ook wel handig om dit aan recruiters te kunnen laten zien.
+
+Ik heb persoonlijk al een portfolio-website, maar ik zie deze blog vooral als een leuke extra toevoeging.
 
 # De design
-Qua design kan ik zeggen dat ik wel ongeveer dezelfde kleur pallet wil gaan nemen als wat ik op mijn eigen website heb of een klein beetje wat erop gaat lijken. Ter inspiratie heb ik een paar blogs hieronder linken om te laten zien wat ik ongeveer wel wat voor design ik graag wil gaan nemen.
+Qua design wil ik eigenlijk ongeveer dezelfde kleuren gebruiken als op mijn eigen website, of in ieder geval iets wat daar een beetje bij in de buurt komt. Ik vind het wel fijn als mijn portfolio en blog een beetje bij elkaar passen, zodat het niet voelt alsof het twee compleet verschillende websites zijn.
+
+Voor inspiratie heb ik hieronder een paar blogs gelinkt die ik zelf wel mooi vind. Ik wil ongeveer kijken naar deze stijl en vanuit daar mijn eigen draai eraan geven:
 
 https://benjineer.vercel.app/blogs/intellichat
-https://rogierderuijter.com/#/blog
 
+https://rogierderuijter.com/#/blog
 
 # Commands
 
