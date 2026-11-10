@@ -3,7 +3,7 @@ author: Alex Bons
 pubDatetime: 2026-10-30T04:59:04.866Z
 title: My experience with Astro
 slug: my-experience-with-astro
-featured: true
+featured: false
 draft: false
 description: My experience learning Astro, how I started using it, and how the framework is helping me develop my skills as a Software Developer.
 ---
@@ -38,7 +38,7 @@ Some of the things I have learned so far with VPRO:
 For projects you can look for them on https://www.vpro.nl/vpro-medialab and search for:
 
 > [!NOTE]
-> The VPRO projects that are named are not on the site yet. They are still internal.
+> The VPRO projects that are named are not on the site yet except for Digitaal noodpakket you can find it here: https://digitaal-noodpakket.vpro.nl/. The rest are still internal.
 <!-- links moeten nog erbij gevoegd worden -->
 
 `Content transformaties - A tool that transcribes audio files and uses AI to automatically generate clips.`
