@@ -1,0 +1,4 @@
+[build]
+  # Use a pinned pnpm through npx so the build works whether or not pnpm is on PATH.
+  command = "npx -y pnpm@10.30.3 install --frozen-lockfile && npx -y pnpm@10.30.3 run build"
+  publish = "dist"
